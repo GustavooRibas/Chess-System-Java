@@ -25,5 +25,5 @@ replay_pid*
 /.metadata/
 
 # Eclipse
-/.settings/
-/.bin/
+.settings/
+.bin/
