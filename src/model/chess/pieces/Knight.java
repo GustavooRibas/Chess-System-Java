@@ -6,7 +6,7 @@ import model.chess.ChessPiece;
 import model.chess.Color;
 
 public class Knight extends ChessPiece{
-
+	
 	public Knight(Board board, Color color) {
 		super(board, color);
 	}
@@ -67,7 +67,7 @@ public class Knight extends ChessPiece{
 		if (getBoard().positionExists(p) && canMove(p)) {
 			mat[p.getRow()][p.getColumn()] = true;
 		}
-
+		
 		return mat;
 	}
 
