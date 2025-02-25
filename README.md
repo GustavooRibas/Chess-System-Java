@@ -36,8 +36,8 @@ O projeto é estruturado em classes organizadas conforme o diagrama UML fornecid
 3. **Compile e execute a aplicação** através da classe principal `program.java` disponível em `Application`.
    
    ```sh
-   javac Application.java
-   java Application
+   javac program.java
+   java program
    ```
 
 ## Funcionalidades
