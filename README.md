@@ -56,5 +56,5 @@ O projeto é estruturado em classes organizadas conforme o diagrama UML fornecid
 Desenvolvido por **Gustavo Ribeiro**. Sinta-se à vontade para contribuir ou relatar problemas!
 
 ## Licença
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
+Este projeto possui uso livre, apenas dê créditos ao autor. Bom uso!
 
