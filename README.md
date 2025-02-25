@@ -33,7 +33,7 @@ O projeto é estruturado em classes organizadas conforme o diagrama UML fornecid
 
 2. **Abra o projeto em uma IDE compatível** (Eclipse, IntelliJ IDEA ou VS Code com suporte a Java).
 
-3. **Compile e execute a aplicação** através da classe principal 'program.java' disponível em `Application`.
+3. **Compile e execute a aplicação** através da classe principal `program.java` disponível em `Application`.
    
    ```sh
    javac Application.java
