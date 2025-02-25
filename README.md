@@ -53,7 +53,7 @@ O projeto é estruturado em classes organizadas conforme o diagrama UML fornecid
 - **IDE recomendada**: Eclipse, IntelliJ IDEA, VS Code
 
 ## Autor
-Desenvolvido por [Gustavo Rodrigues Ribeiro]. Sinta-se à vontade para contribuir ou relatar problemas!
+Desenvolvido por **Gustavo Ribeiro**. Sinta-se à vontade para contribuir ou relatar problemas!
 
 ## Licença
 Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
